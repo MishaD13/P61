@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-weight: 300;
+}
+
+p {
+    font-size: 35px;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-weight: 300;
+}
+
+#intro{
+    background-color:#f5a4a9
+}
+
+#origami1{
+   background-color:#a4f1f5;
+}
+
+#contact_1{
+    background-color: white;
+}
+#contact_1 h3
+{
+    display: inline;
+}
+#contact_1 a
+{
+    color: black;
+    text-shadow: none;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
