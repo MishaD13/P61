@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+<html lang="en">
 
-You can use the [editor on GitHub](https://github.com/MishaD13/P61/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@500&family=Rubik+Moonrocks&display=swap" rel="stylesheet">  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@500&display=swap" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
 
-### Markdown
+<body>
+    <section id="intro">
+        <h1>Origami</h1>
+        <p>Welcome to the world of Arts and Crafts. This page is all about enhancing your creative skills using various
+            origami technics.</p>
+        <h2>Lets get started</h2>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+        <div class="line"></div>
+        <iframe width="700" height="620" style="border: 0px;" src="https://en.wikipedia.org/wiki/Origami">
+        </iframe>
 
-```markdown
-Syntax highlighted code block
+    </section>
 
-# Header 1
-## Header 2
-### Header 3
+    <section id="origami1">
 
-- Bulleted
-- List
+        
+        <h1>Crane</h1>
+        <a href="https://www.thesprucecrafts.com/traditional-origami-crane-2540790" target="_blank">
+            <img src="crane.jpg" width="368" height="276">
+        </a>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+        <h1>Tulip Flower</h1>
+         
+          <a href="https://www.thesprucecrafts.com/christmas-origami-projects-4147453" target="_blank">
+            <img src="tulip_flower.jpg" width="368" height="276">
+        </a>
 
-[Link](url) and ![Image](src)
-```
+    </section>
+    <section id="contact_1">
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+       
+       <a href="mailto:someone@example.com?Subject=Hello">
+               <i class="fa fa-envelope"></i>&nbsp;&nbsp;<h3>mygmailid@gmail.com</h3>
+                </a> 
 
-### Jekyll Themes
+        
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MishaD13/P61/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    </section>
 
-### Support or Contact
+</body>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
